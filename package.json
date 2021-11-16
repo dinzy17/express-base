@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^2.6.1",
-    "aws-sdk": "^2.575.0",
+    "aws-sdk": "^2.814.0",
     "body-parser": "^1.18.3",
     "compression": "^1.7.4",
     "cookie-parser": "^1.4.3",
